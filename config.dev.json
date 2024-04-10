@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "61552852605139",
+    "password": "ab12cd34",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -18,7 +18,7 @@
   },
   "adminBot": [
     "100086565691009",
-    ""
+    "100077513002567"
   ],
   "whiteListMode": {
     "enable": false,
